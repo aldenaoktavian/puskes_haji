@@ -1,0 +1,1 @@
+<img src="<?php echo base_url(); ?>images/44d636a45f8633093a19e2c12989fd99.jpg?crc=4210010212" />
